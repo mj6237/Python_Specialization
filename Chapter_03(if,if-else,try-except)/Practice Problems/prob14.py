@@ -1,7 +1,7 @@
 '''
 . Electricity bill calculator 
  Units <= 100 → Rs.5/unit 
- 101–300 → Rs.8/unit 
+ 101-300 → Rs.8/unit 
  Above 300 → Rs.10/unit 
 Add 18% tax at end
 '''
