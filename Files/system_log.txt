@@ -1,0 +1,10 @@
+INFO: System boot complete.
+DEBUG: Initialized memory module.
+INFO: User 'admin' logged in.
+TRACE: Checking network status.
+WARNING: Low disk space.
+INFO: Scheduled backup started.
+DEBUG: Verbose mode enabled.
+ERROR: Backup failed.
+TRACE: Retrying connection...
+INFO: User 'guest' logged out.

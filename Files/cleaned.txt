@@ -1,0 +1,6 @@
+INFO: System boot complete.
+INFO: User 'admin' logged in.
+WARNING: Low disk space.
+INFO: Scheduled backup started.
+ERROR: Backup failed.
+INFO: User 'guest' logged out.

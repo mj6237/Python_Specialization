@@ -1,0 +1,11 @@
+INFO: System startup complete.
+WARNING: Disk space is running low.
+INFO: User 'admin' logged in.
+ERROR: Failed to connect to database.
+INFO: User 'guest' logged in.
+ERROR: Access denied for user 'guest' on '/admin'.
+INFO: User 'admin' logged in.
+INFO: User 'guest' logged in.
+DEBUG: Temporary variable created.
+TRACE: Starting debug sequence.
+INFO: User 'admin' logged in.
