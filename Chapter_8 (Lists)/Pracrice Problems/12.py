@@ -14,8 +14,8 @@ def sanitized_logs(filename):
             line = line.rstrip()
             #lines = line.split()
             if "hack" in line or "virus" in line :
-                replaced = line.replace("virus", "REDACTED")
                 replaced = line.replace("hack", "REDACTED")
+                replaced = line.replace("virus", "REDACTED")
                 print(replaced)
 
 filename = r"E:\Python Specialization  By Michigan University\Python_Specialization\Files\logs_to_clean.txt"
