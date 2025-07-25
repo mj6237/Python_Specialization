@@ -1,0 +1,5 @@
+("2025-07-25 10:00:00", "INFO", "User 'admin' logged in."),
+("2025-07-25 10:01:15", "ERROR", "Failed login attempt for 'guest'."),
+("2025-07-25 10:02:30", "INFO", "System health check passed."),
+("2025-07-25 10:03:45", "WARNING", "Disk space low."),
+("2025-07-25 10:04:00", "ERROR", "Database connection lost.")
