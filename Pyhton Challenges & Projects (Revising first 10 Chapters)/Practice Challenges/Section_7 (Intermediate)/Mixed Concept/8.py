@@ -8,7 +8,7 @@ def count_vowel_start_word(sentence) :
     count = 0
     for word in words :
         word = word.lower()
-        if not word and word.startswith(vowels) :
+        if  word and word[0] in vowels :
             count += 1
     return count
 
