@@ -1,5 +1,11 @@
 '''
-
+1.Define a function get_total_sales_for_product(records, product) that takes the sales_records list 
+and a product name (string). 
+2. Inside the function, initialize total_sales = 0. 
+3. Loop through each record tuple in records. 
+4. Unpack the record tuple into p_name, qty, price. 
+5. If p_name matches the product (case-insensitive), calculate qty * price and add it to total_sales. 
+6. Return total_sales.
 '''
 def get_total_sale_for_product(records, product):
     total_sales = 0
