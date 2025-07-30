@@ -1,5 +1,12 @@
 '''
-
+1. Define a function count_vowel_start_words(sentence) that takes a string. 
+2. Define a string of vowels: vowels = "aeiou". 
+3. Split the sentence into words. 
+4. Initialize count = 0. 
+5. Loop through each word. Convert the word to lowercase. 
+6. If the word is not empty and its first letter is in vowels, increment count. 
+7. Return count. 
+8. Call the function with "Apple is an awesome orange" and print the result.
 '''
 
 def count_vowel_start_word(sentence) :
