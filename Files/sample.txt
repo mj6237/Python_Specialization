@@ -1,0 +1,5 @@
+Hello world.
+This is a sample text file.
+Hello Python.
+World is awesome.
+python programming is fun.
